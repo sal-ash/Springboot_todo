@@ -1,0 +1,5 @@
+Application\TaskDAO.class
+Application\Task.class
+Application\TaskController.class
+Application\TodoApplication.class
+Application\TaskRepository.class
